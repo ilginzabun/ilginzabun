@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilginzabun
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JavaScript
 - 📫 You can reach me through my Linkedln profile
 - 😄 I use GitHub while improving myself and learning.
 
